@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Marouane Boukedir</h1>
 <h3 align="center">Java | Spring | Node.js | Microservices backend developer and obsessed with science ( math, physics, ai)😜</h3>
 
-- 🔭 I’m currently working on **Art Of Computer Programming**
+- 🔭 I’m currently working on **Art Of Computer Programming**.
 - 🌱 I’m currently learning **Flutter**
 - 👯 I’m looking to collaborate with **on creative projects**
 - 📫 How to reach me: ***marouaneboukedir@gmail.com***
